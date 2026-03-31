@@ -19,6 +19,5 @@
 
   <p>We typically respond within 24–48 hours.</p>
 
-  <p><a href="privacy.html">Privacy Policy</a></p>
-</body>
-</html>
+  
+
